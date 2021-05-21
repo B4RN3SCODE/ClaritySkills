@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "CV2aX/zOxrl3CLGkI3cfeXs4yX0cgsuVgCfepDgjJ54bvYOzhWWYxy4kjrePT8Dgd0/nyeYOjs2hp3XP5M4s0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\Dev\\Clarity\\ClarityWebApp\\Clarity.Emailer\\Clarity.Emailer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\acidic.extensions.configuration.binder\\1.0.0\\acidic.extensions.configuration.binder.1.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.9\\microsoft.extensions.configuration.3.1.9.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.9\\microsoft.extensions.configuration.binder.3.1.9.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

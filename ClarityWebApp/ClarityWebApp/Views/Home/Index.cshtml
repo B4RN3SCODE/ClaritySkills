@@ -1,0 +1,91 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<section id="hero" class="d-flex align-items-center">
+    <div class="container text-center">
+
+        <div class="bullet" data-aos="zoom-out" data-aos-delay="100">
+            <h1>
+                <span>The Client's Site</span>
+            </h1>
+        </div>
+        <div id="form-input">
+            <form id="formEmail" method="POST">
+                <div class="form-group row">
+                    <div class="col-sm-6">
+                        <div class="input-group">
+                            <label for="toemail" class="col-sm-2 col-form-label">TO: </label>
+                            <input type="email" name="toemail" value="" placeholder="friend@email.com" id="toemail" class="form-control" />
+                        </div>
+                        <div class="input-group">
+                            <label for="fromemail" class="col-sm-2 col-form-label">FROM: </label>
+                            <input type="email" name="fromemail" value="" placeholder="you@email.com" id="fromemail" class="form-control" />
+                        </div>
+                        <div class="input-group">
+                            <label for="subject" class="col-sm-2 col-form-label">Subject: </label>
+                            <input type="text" name="subject" value="" placeholder="whats up?!" id="subject" class="form-control" />
+                        </div>
+                        <div class="input-group">
+                            <label for="body" class="col-sm-2 col-form-label">Message: </label>
+                            <input type="text" name="body" value="" placeholder="just checking in..." id="body" class="form-control" />
+                        </div>
+                        <div class="input-group">
+                            <button class="btn btn-primary" type="submit" id="btnSubmit">Submit</button>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div id="success-cont" class="alert alert-success" style="display:none;">
+            <span>Thanks. Email will be sent</span>
+        </div>
+    </div>
+</section>
+
+
+
+
+<section id="main">
+
+
+
+    <section id="featured-services" class="featured-services">
+        <div class="container" data-aos="fade-up">
+            <div class="section-title">
+                <h2>No Interuption</h2>
+                <h3>Even if sending an email <span>Fails</span> :(</h3>
+            </div>
+            <div class="row">
+
+                <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0">
+                    <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
+                        <div class="icon"><i class="bx bx-file"></i></div>
+                        <h4 class="title"><span>1/3</span>Fill in the information</h4>
+                        <p class="description">Use the form above to enter in the email information that you want to send</p>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0">
+                    <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
+                        <div class="icon"><i class="bx bx-group"></i></div>
+                        <h4 class="title"><span>2/3</span>Click Submit!</h4>
+                        <p class="description">Once submitted, the jQuery will send the API a request to send the email information</p>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0">
+                    <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
+                        <div class="icon"><i class="bx bx-code"></i></div>
+                        <h4 class="title"><span>3/3</span>Async Process</h4>
+                        <p class="description">The API will asyncronously send the email so you can carry on about the site</p>
+                    </div>
+                </div>
+
+
+            </div>
+
+        </div>
+    </section>
+
+</section>

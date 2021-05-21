@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\Dev\Clarity\ClarityWebApp\Clarity.Emailer\bin\Debug\net5.0\Clarity.Emailer.deps.json
+C:\Users\Administrator\Documents\Dev\Clarity\ClarityWebApp\Clarity.Emailer\bin\Debug\net5.0\Clarity.Emailer.dll
+C:\Users\Administrator\Documents\Dev\Clarity\ClarityWebApp\Clarity.Emailer\bin\Debug\net5.0\ref\Clarity.Emailer.dll
+C:\Users\Administrator\Documents\Dev\Clarity\ClarityWebApp\Clarity.Emailer\bin\Debug\net5.0\Clarity.Emailer.pdb
+C:\Users\Administrator\Documents\Dev\Clarity\ClarityWebApp\Clarity.Emailer\obj\Debug\net5.0\Clarity.Emailer.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Dev\Clarity\ClarityWebApp\Clarity.Emailer\obj\Debug\net5.0\Clarity.Emailer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Dev\Clarity\ClarityWebApp\Clarity.Emailer\obj\Debug\net5.0\Clarity.Emailer.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Dev\Clarity\ClarityWebApp\Clarity.Emailer\obj\Debug\net5.0\Clarity.Emailer.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Dev\Clarity\ClarityWebApp\Clarity.Emailer\obj\Debug\net5.0\Clarity.Emailer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Dev\Clarity\ClarityWebApp\Clarity.Emailer\obj\Debug\net5.0\Clarity.Emailer.dll
+C:\Users\Administrator\Documents\Dev\Clarity\ClarityWebApp\Clarity.Emailer\obj\Debug\net5.0\ref\Clarity.Emailer.dll
+C:\Users\Administrator\Documents\Dev\Clarity\ClarityWebApp\Clarity.Emailer\obj\Debug\net5.0\Clarity.Emailer.pdb

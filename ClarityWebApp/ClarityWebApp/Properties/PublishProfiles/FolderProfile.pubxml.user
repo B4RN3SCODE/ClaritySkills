@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\Clarity</_PublishTargetUrl>
+    <History>True|2021-05-21T16:39:57.4623504Z;True|2021-05-21T04:47:39.7590456+00:00;True|2021-05-21T03:55:27.5404544+00:00;True|2021-05-21T03:48:08.0469889+00:00;</History>
+  </PropertyGroup>
+</Project>
