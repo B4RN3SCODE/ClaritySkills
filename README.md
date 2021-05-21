@@ -16,7 +16,7 @@ ClaritySkills
 
  dotnet EF database update
 
- Or create database with:
+ Or create database with a table called Emails:
   - Id (PRIMARY KEY IDENTITY AUTO INCR)
   - To (VARCHAR(32))
   - From (VARCHAR(32))
